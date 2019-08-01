@@ -29,5 +29,5 @@ EvolutionOnBlochSphere[
 ]
 ```
 
-![Example of Bloch Sphere output](imperfDrivePt.png)
+![Example of Bloch Sphere output](example_output.png)
 
